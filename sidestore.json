@@ -12,12 +12,12 @@
       "tintColor": "F08018",
       "versions": [
         {
-          "version": "1.14.17",
-          "buildVersion": "54",
+          "version": "1.14.19",
+          "buildVersion": "56",
           "date": "2026-11-02",
-          "localizedDescription": "\n### Added\n- TripSplit now runs on iPhone. Install it through SideStore. Email invites,\n  paying with UPI apps and expense notifications all work there.\n- iPhone updates arrive the same way as on Android: the app tells you when a\n  new version is out, and one tap hands it to SideStore to install.\n\n",
-          "downloadURL": "https://github.com/suddhasattwabanerjee-230808/TripSplit-releases/releases/download/v1.14.17/TripSplit.ipa",
-          "size": 24035861,
+          "localizedDescription": "\n### Added\n- The top of the home screen shows where you are right now: a location pin\n  and the place name.\n\n",
+          "downloadURL": "https://github.com/suddhasattwabanerjee-230808/TripSplit-releases/releases/download/ios-v1.14.19/TripSplit.ipa",
+          "size": 24541078,
           "minOSVersion": "15.0"
         }
       ],
