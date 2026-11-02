@@ -1,0 +1,31 @@
+{
+  "name": "TripSplit",
+  "identifier": "com.suddhasattwa.tripsplit.source",
+  "iconURL": "https://raw.githubusercontent.com/suddhasattwabanerjee-230808/TripSplit-releases/main/icon.png",
+  "apps": [
+    {
+      "name": "TripSplit",
+      "bundleIdentifier": "com.suddhasattwa.tripsplitgujarat",
+      "developerName": "Suddhasattwa Banerjee",
+      "localizedDescription": "Split trip expenses with friends.",
+      "iconURL": "https://raw.githubusercontent.com/suddhasattwabanerjee-230808/TripSplit-releases/main/icon.png",
+      "tintColor": "F08018",
+      "versions": [
+        {
+          "version": "1.14.17",
+          "buildVersion": "54",
+          "date": "2026-11-02",
+          "localizedDescription": "\n### Added\n- TripSplit now runs on iPhone. Install it through SideStore. Email invites,\n  paying with UPI apps and expense notifications all work there.\n- iPhone updates arrive the same way as on Android: the app tells you when a\n  new version is out, and one tap hands it to SideStore to install.\n\n",
+          "downloadURL": "https://github.com/suddhasattwabanerjee-230808/TripSplit-releases/releases/download/v1.14.17/TripSplit.ipa",
+          "size": 24035861,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
