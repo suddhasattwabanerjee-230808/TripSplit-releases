@@ -12,12 +12,12 @@
       "tintColor": "F08018",
       "versions": [
         {
-          "version": "1.14.19",
-          "buildVersion": "56",
-          "date": "2026-11-02",
-          "localizedDescription": "\n### Added\n- The top of the home screen shows where you are right now: a location pin\n  and the place name.\n\n",
-          "downloadURL": "https://github.com/suddhasattwabanerjee-230808/TripSplit-releases/releases/download/ios-v1.14.19/TripSplit.ipa",
-          "size": 24541078,
+          "version": "1.15.1",
+          "buildVersion": "58",
+          "date": "2026-11-11",
+          "localizedDescription": "\n### Added\n- Chat with your tripmates: a group chat for each trip, and one-to-one chats\n  with everyone you share a trip with. Open it from the chat icon at the top\n  of the Trip page, or from Message on a person's page.\n- Voice and video calls between tripmates. On Android an incoming call rings\n  like a phone call, full screen and on the lock screen, even with TripSplit\n  closed. Missed calls show as a notification and in the chat.\n- Messages and calls are end-to-end encrypted: only the people in the chat can\n  read or hear them, not TripSplit or Google. Tap a name in a chat to compare\n  security codes.\n\n### Notes\n- Only people who share a trip can message or call each other.\n- On iPhone, calls ring only while TripSplit is open.\n- Your tripmates need this version too, and to open it once, before they can\n  get your messages and calls.\n\n",
+          "downloadURL": "https://github.com/suddhasattwabanerjee-230808/TripSplit-releases/releases/download/v1.15.1/TripSplit.ipa",
+          "size": 31102693,
           "minOSVersion": "15.0"
         }
       ],
