@@ -12,12 +12,12 @@
       "tintColor": "F08018",
       "versions": [
         {
-          "version": "1.15.1",
-          "buildVersion": "58",
-          "date": "2026-11-11",
-          "localizedDescription": "\n### Added\n- Chat with your tripmates: a group chat for each trip, and one-to-one chats\n  with everyone you share a trip with. Open it from the chat icon at the top\n  of the Trip page, or from Message on a person's page.\n- Voice and video calls between tripmates. On Android an incoming call rings\n  like a phone call, full screen and on the lock screen, even with TripSplit\n  closed. Missed calls show as a notification and in the chat.\n- Messages and calls are end-to-end encrypted: only the people in the chat can\n  read or hear them, not TripSplit or Google. Tap a name in a chat to compare\n  security codes.\n\n### Notes\n- Only people who share a trip can message or call each other.\n- On iPhone, calls ring only while TripSplit is open.\n- Your tripmates need this version too, and to open it once, before they can\n  get your messages and calls.\n\n",
-          "downloadURL": "https://github.com/suddhasattwabanerjee-230808/TripSplit-releases/releases/download/v1.15.1/TripSplit.ipa",
-          "size": 31102693,
+          "version": "1.15.2",
+          "buildVersion": "59",
+          "date": "2026-11-12",
+          "localizedDescription": "\n### Fixed\n- Calls now carry sound both ways. Answering from the full-screen ringing\n  page could set the call up twice, which left one side with no sound and\n  video going only one way.\n- Speaker and earpiece switching works during a call. Video calls start on the\n  loudspeaker instead of the quiet earpiece.\n- A second call after the first one no longer starts silent.\n- The other person's video shows reliably once the call connects.\n- If a call can't be answered on this phone, the caller hears so at once\n  instead of ringing until it times out.\n- iPhone: calls answered from the ringing screen have sound.\n\n",
+          "downloadURL": "https://github.com/suddhasattwabanerjee-230808/TripSplit-releases/releases/download/v1.15.2/TripSplit.ipa",
+          "size": 31114948,
           "minOSVersion": "15.0"
         }
       ],
